@@ -1,0 +1,72 @@
+body{
+    background: #F4DDCE;
+}
+header{
+    width: 100%;
+    background-color: #B3937E;
+    height: 90px;
+}
+header logo img{
+    width: 6%;
+    padding: 5px;
+    float: left;
+}
+header busqueda{
+    text-align: center;
+    width: 30%;
+    height: 50%;
+    margin-top: 15px;
+    margin-right: 60px;
+    float: right;
+}
+header busqueda input{
+    background-color: #D1BBAC;
+    border: 0px; 
+    height: 50px;
+    width: 90%;
+}
+header busqueda button{
+    background-color: #B3937E;
+    border: 0px; 
+    height: 50px;
+    width: 5%;
+}
+header idioma{
+    float: right;
+    height: 8%;
+    border: 0px;
+}
+header enlaces ul{
+float:left;
+width:50%;
+padding:0;
+margin:0;
+list-style-type:none;
+margin-top: 54px;
+margin-left: 100px;
+margin-bottom: 0px;
+margin-right: 0px;
+}
+header a{
+float:center;
+width:6em;
+text-decoration:none;
+color:black;
+background-color:#B3937E;
+margin-right: 0px;
+margin-bottom:0px;
+padding-left: 1%;
+padding-right: 1%;
+}
+
+header a.select{
+    background-color:#F4DDCE;
+}
+header a:hover {
+    font-style: italic;
+    color: white;
+}
+header li {
+    display:inline;
+    font-size: 33px;
+}

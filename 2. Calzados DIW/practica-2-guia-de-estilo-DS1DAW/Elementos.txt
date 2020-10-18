@@ -1,0 +1,8 @@
+    Identificacion: 
+    Navegacion: Hombre(castellano, casual,fiesta)  Mujer(tacon/planos/fiesta) 
+Niños(colegial/otros)   Oulet
+    Contenido: Español/Ingles
+    Interacion: animacion
+tipo de letra 
+
+Script MT Bold, Bold
